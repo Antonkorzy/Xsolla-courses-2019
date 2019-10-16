@@ -1,0 +1,3 @@
+https://colab.research.google.com/drive/1xrOByPNVxFBuZMpvTT7SEpbaUvbH6rO9   практика
+https://colab.research.google.com/drive/1j7eumcg1pGqdUeu57J5Kyl4YFg0tpY32    загрузка датасета(тот же, что и в 4)
+https://drive.google.com/file/d/1hKbKYXgFw9_Ruyqquy7hDWw5k7o5k8A9/view?usp=sharing     датасет(тот же, что и в 4)

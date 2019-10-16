@@ -1,0 +1,5 @@
+https://colab.research.google.com/drive/1iC71B_jzKHSbCwacq4UBKhLypTOOn04q   практика
+https://colab.research.google.com/drive/1j7eumcg1pGqdUeu57J5Kyl4YFg0tpY32    загрузка датасета(тот же, что и в 4)
+https://drive.google.com/file/d/1hKbKYXgFw9_Ruyqquy7hDWw5k7o5k8A9/view?usp=sharing     датасет(тот же, что и в 4)
+https://drive.google.com/file/d/1wQ8ctB9grXP3YVb1jrz3MXE9ToRvQp4n/view?usp=sharing     датасет для теста
+https://drive.google.com/file/d/1v6vlAmPtLhVJdGHRt6BNULapHN3TpcSu/view?usp=sharing     сеть для 5 особых точек
